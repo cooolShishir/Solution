@@ -5,7 +5,6 @@ inside os ubuntu
     Description:	Ubuntu 16.04.5 LTS
     Release:	16.04
 
-clone at github.com/cShishir/assignment
 npm install
 npm run start
 
