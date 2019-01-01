@@ -1,3 +1,6 @@
+best viewed with some editor 
+
+
 Please install beforehand - 
 
 mongodb version v2.6.12
